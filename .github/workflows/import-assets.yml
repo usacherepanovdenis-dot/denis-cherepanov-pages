@@ -44,3 +44,5 @@ jobs:
           git add assets/
           git commit -m "Add exact published media-kit assets" || exit 0
           git push
+
+# trigger
